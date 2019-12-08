@@ -1,1 +1,3 @@
-# Object-Oriented-Programming-in-C-
+# Object Oriented Programming Using C++
+
+Study and implement C++
